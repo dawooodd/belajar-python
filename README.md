@@ -9,7 +9,7 @@
 ## 📖 Daftar Isi
 
 1. [Kamus Istilah]
-(#1-kamus-istilah)
+(#1-[kamus-istilah])
 2. [Peta Perjalanan Belajar Kita](#2-peta-perjalanan-belajar-kita)
 3. [Langkah Persiapan Pertama (Setup Tanpa Ribet)](#3-langkah-persiapan-pertama-setup-tanpa-ribet)
 4. [Penjelasan Modul 01: Belajar Dasar (Pondasi Rumah)](#4-penjelasan-modul-01-belajar-dasar-pondasi-rumah)
