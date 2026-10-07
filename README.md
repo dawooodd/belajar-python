@@ -22,7 +22,7 @@
 
 ---
 
-## 1. Kamus Istilah Bahasa Bayi (Pahami Ini Dulu!)
+## 1. Kamus Istilah
 
 Jika Anda mendengar istilah-istilah di bawah ini nanti, bayangkan saja perumpamaan ini:
 
