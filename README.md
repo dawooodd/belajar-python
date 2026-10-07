@@ -8,7 +8,8 @@
 
 ## 📖 Daftar Isi
 
-1. [Kamus Istilah Bahasa Bayi (Pahami Ini Dulu Sebelum Mulai!)](#1-kamus-istilah-bahasa-bayi-pahami-ini-dulu)
+1. [Kamus Istilah]
+(#1-kamus-istilah-bahasa-bayi-pahami-ini-dulu)
 2. [Peta Perjalanan Belajar Kita](#2-peta-perjalanan-belajar-kita)
 3. [Langkah Persiapan Pertama (Setup Tanpa Ribet)](#3-langkah-persiapan-pertama-setup-tanpa-ribet)
 4. [Penjelasan Modul 01: Belajar Dasar (Pondasi Rumah)](#4-penjelasan-modul-01-belajar-dasar-pondasi-rumah)
