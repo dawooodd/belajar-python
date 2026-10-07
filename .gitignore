@@ -1,0 +1,76 @@
+# ==============================================================================
+# .gitignore untuk Repositori Belajar Python (Dasar -> Django -> ML/AI)
+# ==============================================================================
+
+# Byte-compiled / cache files (File sampah hasil kompilasi otomatis Python)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Lingkungan Virtual (Virtual Environment) - Jangan pernah di-commit ke Git!
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# File Pengujian & Code Coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+
+# Distribusi & Packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Framework Django
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+media/
+staticfiles/
+
+# File Output Percobaan & Data Runtime (Generated Files)
+02_menengah/data_output/
+05_projek_ml_dan_ai/data_clean/
+05_projek_ml_dan_ai/models_saved/*.pt
+05_projek_ml_dan_ai/models_saved/*.joblib
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints
+
+# Konfigurasi Editor / IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# File Sistem Operasi (Windows & macOS)
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+.AppleDouble
+.LSOverride
