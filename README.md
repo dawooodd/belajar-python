@@ -360,4 +360,4 @@ git push -u origin main
 
 Coding itu bukan bakat turunan, melainkan **keterampilan melatih kebiasaan**. Setiap kali Anda melihat error di layar, jangan berkecil hati — itu tandanya komputer sedang berbicara jujur kepada Anda agar Anda menjadi programmer yang lebih hebat.
 
-Selamat menikmati petualangan belajar Python Anda! 🚀🐍✨
+Selamat menikmati petualangan belajar Python Anda! 🚀🐍✨ 
